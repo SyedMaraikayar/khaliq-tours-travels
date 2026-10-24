@@ -1,0 +1,34 @@
+{
+  "services": [
+    {
+      "id": "flights",
+      "name": "Flight Ticket Bookings",
+      "page": "flight-tickets.html",
+      "shortDesc": "Domestic and international flight enquiries. Fares and availability are confirmed when you contact us."
+    },
+    {
+      "id": "visa",
+      "name": "International Visa Assistance",
+      "page": "visa-tour-packages.html#visa",
+      "shortDesc": "Document guidance for international travel. Visa decisions remain with the relevant authorities."
+    },
+    {
+      "id": "tours",
+      "name": "Tour Packages",
+      "page": "visa-tour-packages.html#tours",
+      "shortDesc": "Customised holiday arrangements based on destination, dates, group size and budget. No fixed catalogue."
+    },
+    {
+      "id": "umrah",
+      "name": "Umrah Travel Services",
+      "page": "umrah-services.html",
+      "shortDesc": "Umrah travel enquiries arranged around your dates, departure city and group."
+    },
+    {
+      "id": "other",
+      "name": "Other Travel Services",
+      "page": "other-travel-services.html",
+      "shortDesc": "Bus tickets, train tickets, taxi bookings and local travel assistance."
+    }
+  ]
+}
